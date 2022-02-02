@@ -1,0 +1,18 @@
+{
+  "notes": "Notes",
+  "createYourFirstNote": "Create your fist note!",
+  "title": "Title",
+  "text": "Text",
+  "color": "Color",
+  "saveChanges": "Save changes?",
+  "delete": "Delete",
+  "createCopy": "Create copy",
+  "save": "Save",
+  "discard": "Discard",
+  "searchByTheKeyword": "Search by the keyword...",
+  "noteNotFoundTrySearchingAgain": "Note not found. Try searching again.",
+  "noteSaved": "Note saved",
+  "lastChanges": "Last changes: ",
+  "pinned": "Pinned: ",
+  "share": "Share"
+}

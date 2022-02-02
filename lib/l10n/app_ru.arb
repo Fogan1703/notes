@@ -1,0 +1,18 @@
+{
+  "notes": "Заметки",
+  "createYourFirstNote": "Создайте свою первую заметку!",
+  "title": "Название",
+  "text": "Текст",
+  "color": "Цвет",
+  "saveChanges": "Сохранить изменения?",
+  "delete": "Удалить",
+  "createCopy": "Создать копию",
+  "save": "Сохранить",
+  "discard": "Отменить",
+  "searchByTheKeyword": "Поиск по словам...",
+  "noteNotFoundTrySearchingAgain": "Не удалось найти заметку. Попробуйте еще раз.",
+  "noteSaved": "Заметка сохранена",
+  "lastChanges": "Последние изменения: ",
+  "pinned": "Закрепленные: ",
+  "share": "Поделиться"
+}
